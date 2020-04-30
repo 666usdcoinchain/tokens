@@ -1,0 +1,16 @@
+@ -0,0 +1,15 @@
+{
+  "name": "LIBRA",
+  "symbol": "LIBRA",
+  "contract": "udscoinchain",
+  "issuer": "usdcoinchain",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/usdcoinchain/LIBRA.png",
+  "desc": {
+    "en": "The redlibra is ducked to 4.1billions asian potential users on blockchain.",
+    "zh": "红LIBRA 的设计乃是基于亚洲41亿潜在的区块链用户需求"
+  },
+  "website": "https://redlibra.app",
+  "whitepaper": "",
+  "links": {}
+}
